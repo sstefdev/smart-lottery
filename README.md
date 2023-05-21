@@ -5,10 +5,15 @@ Welcome to the Smart Contract Lottery repository! This project implements a dece
 ## Features
 
 ✨ Transparent and secure lottery powered by Ethereum smart contracts.
+
 🔒 Provably fair random number generation using Chainlink's decentralized oracle network.
+
 🎟️ User-friendly interface for buying tickets, viewing ongoing and past lotteries, and checking winning numbers.
+
 💰 Automated prize distribution based on predefined rules.
+
 🔧 Development environment integrated with Hardhat for testing and deployment.
+
 📚 Detailed documentation and deployment guide.
 
 ## Getting Started
