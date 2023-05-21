@@ -1,0 +1,31 @@
+# Hardhat artifacts
+artifacts/
+
+# Hardhat cache
+cache/
+
+# Compiled contracts
+contracts/compile/
+
+# Coverage reports
+coverage/
+
+# Local Hardhat network
+network/
+
+# Generated TypeScript typings
+typechain/
+
+# Node.js dependencies
+node_modules/
+
+# Hardhat configuration file
+hardhat.config.ts
+
+# Hardhat scripts directory
+scripts/
+
+# Hardhat test directory
+test/
+
+.DS_Store
