@@ -1,4 +1,4 @@
-# 🎰 Smart Contract Lottery 🎲
+# 🎰 Smart Contract Lottery
 
 Welcome to the Smart Contract Lottery repository! This project implements a decentralized lottery system using Hardhat and Chainlink.
 
