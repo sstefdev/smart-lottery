@@ -1,5 +1,10 @@
-# Hardhat artifacts
-artifacts/
+artifacts
+cache
+deployments
+node_modules
+coverage
+coverage.json
+typechain
 
 # Hardhat cache
 cache/
@@ -22,10 +27,5 @@ node_modules/
 # Hardhat configuration file
 hardhat.config.ts
 
-# Hardhat scripts directory
-scripts/
-
-# Hardhat test directory
-test/
-
 .DS_Store
+.env
