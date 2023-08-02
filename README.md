@@ -2,6 +2,8 @@
 
 Welcome to the Smart Contract Lottery repository! This project implements a decentralized lottery system using Hardhat and Chainlink.
 
+IPFS Host: ipfs://bafybeig3jj5sbasgtoo56l42vv7gjmvdmjqotcdn5ru2izx2fvdcneoney/
+
 ## Features
 
 ✨ Transparent and secure lottery powered by Ethereum smart contracts.
