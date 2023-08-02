@@ -29,3 +29,5 @@ hardhat.config.ts
 
 .DS_Store
 .env
+.next
+out

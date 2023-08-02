@@ -16,7 +16,7 @@ const networkConfig = {
     interval: "30",
     keepersUpdateInterval: "30",
   },
-  31337: {
+  1337: {
     name: "localhost",
     entranceFee: ethers.utils.parseEther("0.01"),
     gasLane:
